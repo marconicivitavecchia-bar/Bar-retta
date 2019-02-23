@@ -1,2 +1,2 @@
 # Bar-retta
-Bar retta: il bar dalle migliori barrette
+The best bar of bars
