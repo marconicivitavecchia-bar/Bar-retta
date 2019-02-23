@@ -1,2 +1,2 @@
 # Bar-retta
-The best bar of bars
+BAR-RETTA: The best bar of bars
